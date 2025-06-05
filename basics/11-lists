@@ -1,12 +1,2 @@
 #!/bin/bash
-echo "Repertoire courant :"
-
-ls -la
-
-echo "Repertoire parent :"
-
-ls -la ..
-
-echo "Repertoire boot :"
-
-ls -la /boot
+ls -la; ls -la ..; ls -la /boot
