@@ -1,1 +1,1 @@
-Description of the reposity.
+basics command shell
