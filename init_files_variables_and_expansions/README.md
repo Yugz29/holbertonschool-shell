@@ -1,35 +1,35 @@
 # 🐚 Shell Project – Init Files, Variables and Expansions
 
-Bienvenue dans ce projet Bash ! 🎉
+Welcome to this Bash project! 🎉
 
-Ce dépôt contient une série de scripts shell permettant de manipuler :
+This repository contains a series of shell scripts demonstrating:
 
-- les fichiers d’initialisation du shell  
-- les variables locales et d’environnement  
-- les alias  
-- les expansions arithmétiques  
-- les conversions numériques  
+- shell initialization files  
+- local and environment variables  
+- aliases  
+- arithmetic expansions  
+- number conversions  
 
 ---
 
-## 📚 Table des matières
+## 📚 Table of Contents
 
-| Fichier                   | Description                                                                                  |
-|---------------------------|----------------------------------------------------------------------------------------------|
-| `0-alias`                 | 🔥 Redéfinit `ls` pour supprimer tous les fichiers du répertoire courant (usage dangereux).  |
-| `1-hello_you`             | 👋 Affiche un message de bienvenue avec le nom de l’utilisateur connecté.                     |
-| `2-path`                  | ➕ Ajoute `/action` à la variable d’environnement `PATH`.                                    |
-| `3-paths`                 | 🔢 Compte et affiche le nombre de dossiers dans la variable `PATH`.                          |
-| `4-global_variables`      | 🌍 Affiche toutes les variables d’environnement (`printenv`).                                |
-| `5-local_variables`       | 🧪 Affiche toutes les variables visibles dans le shell actuel (`set`).                       |
-| `6-create_local_variable` | 🔧 Crée une variable locale nommée `BEST`.                                                  |
-| `7-create_global_variable`| 🌐 Crée une variable d’environnement `BEST` exportée.                                       |
-| `8-true_knowledge`        | ➕ Affiche la somme de `128` et de la variable `TRUEKNOWLEDGE`.                              |
-| `9-divide_and_rule`       | ➗ Affiche le résultat de la division de `POWER` par `DIVIDE`.                               |
-| `10-love_exponent_breath` | 🧮 Élève `BREATH` à la puissance `LOVE`.                                                     |
-| `11-binary_to_decimal`    | 🔢 Convertit une valeur binaire (`BINARY`) en décimal.                                       |
-| `12-combinations`         | 🔡 Génère toutes les combinaisons de deux lettres sauf celles contenant `oo`.                |
-| `13-print_float`          | 💸 Affiche une variable numérique (`NUM`) arrondie à deux décimales.                         |
-| `14-decimal_to_hexadecimal` | 🔠 Convertit une valeur décimale (`DECIMAL`) en hexadécimal.                                |
+| File                      | Description                                                                                   |
+|---------------------------|-----------------------------------------------------------------------------------------------|
+| `0-alias`                 | 🔥 Redefines `ls` to delete all files in the current directory (dangerous usage).             |
+| `1-hello_you`             | 👋 Prints a welcome message with the current user’s name.                                     |
+| `2-path`                  | ➕ Adds `/action` to the environment variable `PATH`.                                          |
+| `3-paths`                 | 🔢 Counts and prints the number of directories in the `PATH` variable.                         |
+| `4-global_variables`      | 🌍 Prints all environment variables using `printenv`.                                         |
+| `5-local_variables`       | 🧪 Prints all shell variables visible in the current session using `set`.                     |
+| `6-create_local_variable` | 🔧 Creates a local variable named `BEST`.                                                     |
+| `7-create_global_variable`| 🌐 Creates and exports an environment variable `BEST`.                                        |
+| `8-true_knowledge`        | ➕ Prints the sum of `128` and the variable `TRUEKNOWLEDGE`.                                  |
+| `9-divide_and_rule`       | ➗ Prints the result of dividing `POWER` by `DIVIDE`.                                         |
+| `10-love_exponent_breath` | 🧮 Raises `BREATH` to the power of `LOVE`.                                                    |
+| `11-binary_to_decimal`    | 🔢 Converts a binary value (`BINARY`) to decimal.                                            |
+| `12-combinations`         | 🔡 Generates all two-letter combinations except those containing `oo`.                        |
+| `13-print_float`          | 💸 Prints the variable `NUM` rounded to two decimal places.                                  |
+| `14-decimal_to_hexadecimal` | 🔠 Converts a decimal value (`DECIMAL`) to hexadecimal.                                     |
 
 ---
