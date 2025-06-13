@@ -29,20 +29,24 @@ Each file is an individual and independent exercise helping you learn a specific
 
 ## 📈 Project Evolution
 
-This repository is evolving:
+This repository is evolving :
 
-    New scripts, folders, or projects will be added as the training continues.
+New scripts, folders, or projects will be added as the training continues.
 
-    Existing scripts may be improved or expanded based on feedback or needs.
+Existing scripts may be improved or expanded based on feedback or needs.
 
-    The goal is to have a complete portfolio of practical and well-documented shell commands.
+The goal is to have a complete portfolio of practical and well-documented shell commands.
+
+---
 
 ## 🤝 Contribution
 
-You can contribute by:
+You can contribute by :
 
-    Suggesting improvements to existing scripts
+Suggesting improvements to existing scripts
 
-    Adding new exercises following the naming conventions
+Adding new exercises following the naming conventions
 
-    Reporting errors or issues via GitHub issues
+Reporting errors or issues via GitHub issues
+
+---
